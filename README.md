@@ -1,5 +1,5 @@
 # soucedemoTest
-Framework: Cypress
+# Framework: Cypress
 To run this script, please follow this instruction:
 Ensure you have Node.js installed on your machine. You can download it from the official Node.js website (https://nodejs.org) if you don't already have it installed.
 Once Node.js is installed, open a terminal or command prompt and navigate to the project folder where you have the downloaded Cypress scripts.
