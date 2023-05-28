@@ -6,6 +6,6 @@
 - Run the following command to install the project dependencies (including Cypress):npm install
 - After the dependencies are installed, you can run the Cypress Test Runner using the following command: npx cypress open, This command will open the Cypress Test Runner window.
 - In the Test Runner window, you will see the list of example tests provided by Cypress. You can remove those files from the cypress/integration folder.
-- Place the downloaded login.spec.js file into the cypress/integration folder of your project.
+- Place the downloaded login.spec.cy.js file into the cypress/integration folder of your project.
 - Switch to the Cypress Test Runner window.
 - Click on login.spec.js in the test list to run the tests.
