@@ -1,7 +1,7 @@
 # soucedemoTest
-# Framework: Cypress
-To run this script, please follow this instruction:
-Ensure you have Node.js installed on your machine. You can download it from the official Node.js website (https://nodejs.org) if you don't already have it installed.
+- Framework: Cypress
+- To run this script, please follow this instruction:
+- Ensure you have Node.js installed on your machine. You can download it from the official Node.js website (https://nodejs.org) if you don't already have it installed.
 Once Node.js is installed, open a terminal or command prompt and navigate to the project folder where you have the downloaded Cypress scripts.
 Run the following command to install the project dependencies (including Cypress):npm install
 After the dependencies are installed, you can run the Cypress Test Runner using the following command: npx cypress open, This command will open the Cypress Test Runner window.
